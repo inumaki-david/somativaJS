@@ -43,7 +43,7 @@ Calculadora com interface completa para operações matemáticas.
 
 ---
 
-## ⚖️ Critérios de Qualidade
+## Critérios de Qualidade
 
 Para garantir a excelência acadêmica e profissional, os projetos seguem os seguintes critérios:
 
