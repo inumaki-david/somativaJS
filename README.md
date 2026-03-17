@@ -6,10 +6,10 @@ Este repositório contém uma série de projetos desenvolvidos como parte de um 
 
 ## Integrantes do Projeto
 
-*Davi Brenna Martins*
-*Maria Eduarda Corrêa Duarte*
-*Pedro Antônio Lanaro*
-*João Gritti Pessoa*
+- *Davi Brenna Martins*
+- *Maria Eduarda Corrêa Duarte*
+- *Pedro Antônio Lanaro*
+- *João Gritti Pessoa*
 
 ---
 
