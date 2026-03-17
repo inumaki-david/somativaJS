@@ -1,3 +1,5 @@
+# Calculadora Básica
+
 Esse é um projeto simples de uma calculadora funcional feita com HTML, CSS e JavaScript.
 ## O que ela faz
 
